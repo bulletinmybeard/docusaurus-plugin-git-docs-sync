@@ -1,0 +1,35 @@
+# Add 'documentation' label to any change in docs files
+documentation:
+  - README.md
+  - CHANGELOG.md
+  - CONTRIBUTING.md
+  - PUBLISHING.md
+  - docs/**/*
+
+# Add 'source' label to any change in source files
+source:
+  - src/**/*
+
+# Add 'test' label to any change in test files
+test:
+  - src/**/*.test.ts
+  - src/**/*.spec.ts
+  - src/__tests__/**/*
+  - jest.config.js
+
+# Add 'build' label to any change in build files
+build:
+  - package.json
+  - package-lock.json
+  - tsconfig.json
+  - .npmignore
+  - .gitignore
+
+# Add 'ci' label to any change in CI files
+ci:
+  - .github/**/*
+
+# Add 'dependencies' label
+dependencies:
+  - package.json
+  - package-lock.json

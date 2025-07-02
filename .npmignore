@@ -1,0 +1,43 @@
+# Source files (only ship compiled)
+src/
+*.ts
+!*.d.ts
+
+# Config files
+tsconfig.json
+.eslintrc*
+eslint.config.js
+jest.config.*
+
+# Testing
+coverage/
+__tests__/
+__mocks__/
+*.test.js
+*.test.d.ts
+*.spec.js
+*.spec.d.ts
+
+# Development
+.github/
+.vscode/
+.idea/
+*.log
+.DS_Store
+
+# Documentation source
+docs/
+
+# Git
+.git/
+.gitignore
+
+# Misc
+*.tgz
+.env*
+tmp/
+temp/
+package-lock.json
+CONTRIBUTING.md
+PUBLISHING.md
+scripts/
