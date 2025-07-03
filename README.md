@@ -1,10 +1,20 @@
 # docusaurus-plugin-git-docs-sync
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![npm version](https://img.shields.io/npm/v/docusaurus-plugin-git-docs-sync)](https://www.npmjs.com/package/docusaurus-plugin-git-docs-sync)
+[![npm downloads](https://img.shields.io/npm/dm/docusaurus-plugin-git-docs-sync)](https://www.npmjs.com/package/docusaurus-plugin-git-docs-sync)
+[![bundle size](https://img.shields.io/bundlephobia/minzip/docusaurus-plugin-git-docs-sync)](https://bundlephobia.com/package/docusaurus-plugin-git-docs-sync)
+[![node](https://img.shields.io/node/v/docusaurus-plugin-git-docs-sync)](https://nodejs.org)
+
+[![CI](https://github.com/bulletinmybeard/docusaurus-plugin-git-docs-sync/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/bulletinmybeard/docusaurus-plugin-git-docs-sync/actions/workflows/ci.yml)
+[![Coverage](https://img.shields.io/codecov/c/github/bulletinmybeard/docusaurus-plugin-git-docs-sync)](https://codecov.io/gh/bulletinmybeard/docusaurus-plugin-git-docs-sync)
+
 [![Docusaurus](https://img.shields.io/badge/Docusaurus-3.0+-3ECC5F?logo=docusaurus&logoColor=white)](https://docusaurus.io)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.3-blue?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Node](https://img.shields.io/badge/Node.js-18.0+-339933?logo=node.js&logoColor=white)](https://nodejs.org)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/bulletinmybeard/docusaurus-plugin-git-docs-sync)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/bulletinmybeard/docusaurus-plugin-git-docs-sync/blob/master/CONTRIBUTING.md)
+[![Stars](https://img.shields.io/github/stars/bulletinmybeard/docusaurus-plugin-git-docs-sync?style=social)](https://github.com/bulletinmybeard/docusaurus-plugin-git-docs-sync)
+[![Follow on Twitter](https://img.shields.io/twitter/follow/bulletinmybeard?style=social)](https://twitter.com/bulletinmybeard)
 
 A Docusaurus plugin that automatically syncs your documentation with a GitHub repository. Write your docs once, and they'll stay in sync everywhere. Supports both Markdown (.md) and MDX (.mdx) files.
 
